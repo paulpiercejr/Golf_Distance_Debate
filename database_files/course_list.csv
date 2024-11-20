@@ -1,0 +1,486 @@
+﻿Course_ID,Course,City,State,Country
+1,49er CC,Tucson,AZ,USA
+2,Accordia Golf Narashino CC,Narashino,NULL,Japan
+3,Almaden Country Club,San Jose,CA,USA
+4,Angus Glen GC (North),Markham,NULL,Canada
+5,Annandale GC,Madison,MS,USA
+6,Arizona CC,Phoenix,AZ,USA
+7,Arnold Palmer's Bay Hill Club & Lodge,Orlando,FL,USA
+8,Aronimink GC,Newtown Square,PA,USA
+9,Atlanta Athletic Club,Johns Creek,GA,USA
+10,Atlanta CC,Atlanta,GA,USA
+11,Atunyote Golf Club,Vernon,NY,USA
+12,Augusta National Golf Club,Augusta,GA,USA
+13,Austin Country Club,Austin,TX,USA
+14,Bakersfield Country Club,Bakersfield,CA,USA
+15,Baltimore CC,Baltmiore,NC,USA
+16,Baltusrol GC,Springfield,NC,USA
+17,Baton Rouge Country Club,Baton Rouge,LA,USA
+18,Bayshore CC,Miami Beach,FL,USA
+19,Beaconsfield GC,Montreal,NULL,Canada
+20,Bear's Best,Las Vegas,NV,USA
+21,Bellerive CC,St. Louis,MO,USA
+22,Bermuda Dunes CC,Bermuda Dunes,CA,USA
+23,Bethpage State Park (Black),Farmingdale,NY,USA
+24,Beverly CC,Chicago,IL,USA
+25,Big Spring CC,Louisville,KY,USA
+26,Birmingham CC,Birmingham,MI,USA
+27,Blue Hill CC,Boston,MA,USA
+28,Blue Hills Country Club,Kansas City,MO,USA
+29,Blue Mound CC,Milwaukee,WI,USA
+30,Blyrhefield CC,Belmont,MI,USA
+31,Board of Trade CC,Toronto,NULL,Canada
+32,Brackenridge Park GC,San Antonio,TX,USA
+33,Brae Burn CC,West Newton,MA,USA
+34,Braemar GC,Edina,MN,USA
+35,Brentwood CC,Brentwood,CA,USA
+36,Broadmoor Golf Club,Seattle,WA,USA
+37,Brook Hollow CC,Dallas,TX,USA
+38,Brookfield CC,Buffalo,NY,USA
+39,Brookside GC,Pasadena,CA,USA
+40,Brown Deer Park GC,Milwaukee,WI,USA
+41,Butler National GC,Oak Brook,IL,USA
+42,Callaway Gardens Resort,Pine Mountain,GA,USA
+43,Calumet CC,Homewood,IL,USA
+44,Canterbury GC,Beachwood,OH,USA
+45,Canyon Club,Palm Springs,CA,USA
+46,Cape Fear Country Club,Wilmington,NC,USA
+47,Capital City Club (Crabapple),Atlanta,GA,USA
+48,Carnoustie GC,Carnoustie,NULL,Scotland
+49,Castle Pines GC,Castle Rock,CO,USA
+50,Caves Valley Golf Club,Owings Mills,MD,USA
+51,CC at Mirasol (Sunset),Palm Beach Gardens,FL,USA
+52,CC of Buffalo,Buffalo,NY,USA
+53,CC of Peoria,Peoria,IL,USA
+54,Cedar Crest CC,Dallas,TX,USA
+55,Chambers Bay GC,University Place,NULL,USA
+56,Champions GC,Houston,TX,USA
+57,Cherokee Town,NULL,GA,USA
+58,Cherry Hill GC,Ridgeway,NULL,Canada
+59,Cherry Hills CC,Englewood,CO,USA
+60,Chicago GC,Wheaton,IL,USA
+61,Cincinnati GC,Cincinnati,OH,USA
+62,City Park GC,New Orleans,LA,USA
+63,Nine Bridges,Jeju Island,NULL,South Korea
+64,Club de Golf Chapultepec,Mexico City,NULL,Mexico
+65,Grand Reserve Golf Club,Canovanas,PR,USA
+66,Cog Hill G&CC,Lemont,IL,USA
+67,Colonial Country Club,Fort Worth,TX,USA
+68,Colonial CC (South),Memphis,TN,USA
+69,Columbia CC,Chevy Chase,MD,USA
+70,Columbia Edgewater CC,Portland,OR,USA
+71,Columbus CC,Columbus,OH,USA
+72,Congaree Golf Club,Ridgland,SC,USA
+73,Congressional CC (Blue),Bethesda,MD,USA
+74,Conway Farms GC,Lake Forest,IL,USA
+75,Coral Springs CC,Coral Springs,FL,USA
+76,Puntacana Resort & Club (Corales Golf Course),Punta Cana,NULL,Dominican Republic
+77,CordeValle GC,San Martin,CA,USA
+78,Cottonwood Valley GC,Irving,TX,USA
+79,Council Fire G&CC,Chattanooga,TN,USA
+80,Country Club of Jackson,Jackson,MS,USA
+81,Country Club of Miami (West),Hialeah,FL,USA
+82,Country Club of North Carolina,Pinehurst,NC,USA
+83,Crawford County CC,Robinson,IL,USA
+84,Crooked Stick GC,Carmel,IN,USA
+85,Crow Valley CC,Bettendorf,IA,USA
+86,Cypress Point CC,Pebble Beach,CA,USA
+87,Dallas Athletic Club,Dallas,TX,USA
+88,Dallas CC,Dallas,TX,USA
+89,Davenport CC,Davenport,IA,USA
+90,De Soto Lakes Golf & Country Club,Sarasota,FL,USA
+91,Denver CC,Denver,CO,USA
+92,Desert Inn CC,Las Vegas,NV,USA
+93,Detroit Golf Club,Detroit,MI,USA
+94,Diplomat Presidential Country Club,Hallandale,FL,USA
+95,Trump National Doral,Miami,FL,USA
+96,Dunes CC,Las Vegas,NV,USA
+97,EAGLE PINES,Lake Buena Vista,FL,USA
+98,Eagle Point Golf Club,Wilmington,NC,USA
+99,East Lake Golf Club,Atlanta,GA,USA
+100,El Caballero CC,Tarzana,CA,USA
+101,El Camale√≥n Golf Course at Mayakoba,Mayakoba,NULL,Mexico
+102,El Paso CC,El Paso,TX,USA
+103,El Rio G&CC,Tucson,AZ,USA
+104,Eldorado CC,Palm Springs,CA,USA
+105,En-Joie GC,Endicott,NY,USA
+106,Engineers CC,Roslyn,NY,USA
+107,Englewood GC,Englewood,NC,USA
+108,English Turn G&CC,New Orleans,LA,USA
+109,Erin Hills,Erin,NULL,USA
+110,Essex G&CC,Windsor,NULL,Canada
+111,Euclid Club,Euclid,OH,USA
+112,Everett Golf & Country Clu,Everett,WA,USA
+113,Fairway Oaks CC,Abilene,TX,USA
+114,Fircrest,NULL,WA,USA
+115,Firestone Country Club (South),Akron,OH,USA
+116,Firestone Country Club (North),Akron,OH,USA
+117,Five Farms CC,Baltimore,MD,USA
+118,Flint Elks CC,Flint,MI,USA
+119,Flossmoor CC,Flossmoor,IL,USA
+120,Forest Oaks CC,Greensboro,NC,USA
+121,Fort Sam Houston,San Antonio,TX,USA
+122,Fox Hills CC,Culver City,CA,USA
+123,French Lick CC,French Lick,IN,USA
+124,Fresh Meadow CC,Flushing,NC,USA
+125,Garden City GC,Garden City,NC,USA
+126,GC of Houston,Humble,TX,USA
+127,Glen Abbey GC,Oakville,NULL,Canada
+128,Glen Lakes CC,Dallas,TX,USA
+129,Glen Oak CC,Glen Ellyn,IL,USA
+130,Glen Oaks Club,Old Westbury,NY,USA
+131,Glen View GC,Chicago,IL,USA
+132,Gleneagles Country Club,Chicago,IL,USA
+133,Grand Bahama Hotel & CC,West End,NULL,Bahamas
+134,Brae Burn CC,Houston,TX,USA
+135,Grayhawk GC (Raptor),Scottsdale,AZ,USA
+136,Green Island CC,Clumbus,GA,USA
+137,Greentree Country Club,NULL,IN,USA
+138,Griffith Park (Harding),Los Angeles,CA,USA
+139,Griffith Park (Wilson),Los Angeles,CA,USA
+140,Hamilton Golf & Country Club,Ancaster,NULL,Canada
+141,Harbour Town Golf Links,Hilton Head Island,SC,USA
+142,Harding Park Golf Club,San Francisco,CA,USA
+143,Hattiesburg CC,Hattiesburg,MS,USA
+144,Havana CC,Havana,NULL,Cuba
+145,Hazeltine National GC,Chaska,MN,USA
+146,Hermitage CC,Richmond,VA,USA
+147,Hershey CC,Hershey,PA,USA
+148,Hesperia Golf & Country Club,Hesperia,CA,USA
+149,Highland G&CC,Indianapolis,IN,USA
+150,Hillcrest CC,Los Angeles,CA,USA
+151,Hinsdale CC,Hinsdale,IL,USA
+152,Holston Hills CC,Knoxville,TN,USA
+153,Homewood CC,Homewood,IL,USA
+154,Hot Springs Country Club (Arlington),Hot Springs,AR,USA
+155,Idlewild CC,Flossmoor,IL,USA
+156,Indian Ridge CC,Palm Dessert,CA,USA
+157,Indian Springs,NULL,MD,USA
+158,Indian Wells CC,Indian Wells,CA,USA
+159,Indianwood G&CC,Lake Orion,MI,USA
+160,Inglewood CC,Inglewood,CA,USA
+161,Inglewood Golf Club,Kenmore,WA,USA
+162,Innisbrook Resort (Copperhead Course),Palm Harbor,FL,USA
+163,Interlachen CC,Edina,MN,USA
+164,Inverness GC,Toledo,OH,USA
+165,Inverrary G&CC (East),Lauderhill,FL,USA
+166,Inwood CC,Inwood,NY,USA
+167,Islemere G&CC,Montreal,NULL,Canada
+168,Jack Nicklaus Golf Center,Mason,OH,USA
+169,TPC San Antonio (Oaks Course),San Antonio,TX,USA
+170,Kanawaki GC,Montreal,NULL,Canada
+171,Keene Trace Golf Club,Nicholasville,KY,USA
+172,Keller GC,St. Paul,MN,USA
+173,Kemper Lakes,Long Grove,IL,USA
+174,Kent CC,Grand Rapids,MI,USA
+175,Kenwood CC,Cincinnati,OH,USA
+176,Ocean Course at Kiawah Island,Kiawah Island,SC,USA
+177,Killearn G&CC,Tallahassee,FL,USA
+178,Kings Inn & Golf Club,Freeport,NULL,Bahamas
+179,Kingsmill GC,Kingsmill,VA,USA
+180,Knollwood Country Club,West Bloomfield,MI,USA
+181,Kuala Lumpur G&CC ,Kuala Lumpur,NULL,Malaysia
+182,La Costa Resort and Spa,Carlsbad,CA,USA
+183,La Quinta Country Club,La Quinta,CA,USA
+184,LaCantera GC (Resort),San Antonio,TX,USA
+185,Lacayan Country Club,Freeport,NULL,Bahamas
+186,Lake Buena Vista GC,Lake Buena Vista,FL,USA
+187,Lakeview GC,Mississaugua,NULL,Canada
+188,Lakewood CC,New Orleans,LA,USA
+189,Lambton G&CC,Toronto,NULL,Canada
+190,Las Colinas Sports Club,Irving,TX,USA
+191,Las Vegas CC,Las Vegas,NV,USA
+192,Las Vegas Hilton CC,Las Vegas,NV,USA
+193,Laurel Valley CC,Ligonier,PA,USA
+194,Le Club Laval-sur-lac,Laval-sur-le-Lac,NULL,Canada
+195,Liberty National Golf Club,Jersey City,NJ,USA
+196,Llanerch CC,Havertown,PA,USA
+197,London Hunt & CC,London,NULL,Canada
+198,Los Angeles CC (North),Los Angeles,CA,USA
+199,MacGregor Downs Country Club,Cary,NC,USA
+200,Magnolia GC,Lake Buena Vista,FL,USA
+201,Manito G&CC,Spokane,WA,USA
+202,Mayfair CC,Sanford,FL,USA
+203,Mayfield CC,Cleveland,OH,USA
+204,Meadowbrook CC,Northville,MI,USA
+205,Medinah CC (No. 3),Medinah,IL,USA
+206,Memorial Park Golf Course,Houston,TX,USA
+207,Memphis CC,Memphis,TN,USA
+208,Merion GC,Ardome,NV,USA
+209,Mesa Verde CC,Costa Mesa,CA,USA
+210,Miami Biltmore GC,Coral Gables,FL,USA
+211,Miami Valley CC,Dayton,OH,USA
+212,Midlothian CC,Blue Island,NC,USA
+213,Midlothian CC,Midlothian,IL,USA
+214,Milwaukee CC,Milwaukee,WI,USA
+215,Minikahda Club,Minneapolis,NC,USA
+216,Minneapolis GC,St. Louis Park,MN,USA
+217,Mission Hills Golf Club,Guangdong,NULL,China
+218,Mission Valley CC,San Diego,CA,USA
+219,Mississaugua G&CC,Mississaugua,NULL,Canada
+220,Mobile Municipal GC,Mobile,AL,USA
+221,Monterey Peninsula Country Club (Shores Course),Pebble Beach,CA,USA
+222,Monterey Peninsula Country Club (Dunes Course),Pebble Beach,CA,USA
+223,Montreal Municipal GC,Montreal,NULL,Canada
+224,Montreux G&CC,Reno,NV,USA
+225,Moraine CC,Dayton,OH,USA
+226,Mount Juliet,Thomastown,NULL,Ireland
+227,Mountain View CC,Corona,CA,USA
+228,Mt. Bruno GC,Saint-Bruno-de-Montarville,NULL,Canada
+229,Mt. Pleasant Municipal Golf Club,Baltimore,MD,USA
+230,Muirfield,Gullane,NULL,Scotland
+231,Muirfield Village Golf Club,Dublin,OH,USA
+232,Musselburgh Links,Musselburgh,NULL,Scotland
+233,Myopia Hunt Club,Hamilton,NC,USA
+234,Mystic Rock GC,Farmington,PA,USA
+235,NCR CC,Dayton,OH,USA
+236,Niakwa CC,Winnipeg,NULL,Canada
+237,Newport GC,Newport,NC,USA
+238,Nicklaus Tournament Course,La Quinta,CA,USA
+239,Normandie CC,St. Louis,MO,USA
+240,North Hills CC,Menomonee Falls,WI,USA
+241,North Shore CC,Glenview,IL,USA
+242,Oak Tree GC,Edmond,OK,USA
+243,Northshore CC,Mequon,WI,USA
+244,Northview G&CC (Ridge Course),Surrey,NULL,Canada
+245,Northwood CC,Dallas,TX,USA
+246,Norwood Hills Country Club,Normandy,MO,USA
+247,Oak Cliff CC,Dallas,TX,USA
+248,Oak Hill CC,Rochester,NY,USA
+249,Oak Hills CC,San Antonio,TX,USA
+250,Oakbourne Country Club,Lafayette,LA,USA
+251,Oakland Hills CC (South),Bloomfield Township,MI,USA
+252,Oakmont CC,Oakmont,PA,USA
+253,Oakwood CC,Coal Valley,IL,USA
+254,Oakwood Club,Cleveland Heights,OH,USA
+255,Oakwood Hills CC,Birmingham,MI,USA
+256,Olympia Fields CC,Olympia Fields,IL,USA
+257,Omni Tucson National Resort,Tucson,AZ,USA
+258,Onwentsia Club,Lake Forest,NC,USA
+259,Ottawa Hunt Club,Ottawa,NULL,Canada
+260,Ozaukee CC,Mequon,WI,USA
+261,Palm GC,Lake Buena Vista,FL,USA
+262,Paradise Valley CC,Las Vegas,NV,USA
+263,Park CC,Williamsville,NY,USA
+264,Pebble Beach Golf Links,Pebble Beach,CA,USA
+265,Pecan Valley CC,San Antonio,TX,USA
+266,Pelham CC,Pelham,NY,USA
+267,Perdido Bay Resort,Pensacola,FL,USA
+268,Pete Dye Stadium Course,La Quinta,CA,USA
+269,PGA National Resort (The Champion),Palm Beach Gardens,FL,USA
+270,PGA West (Nicklaus),La Quinta,CA,USA
+271,PGA West (Palmer),La Quinta,CA,USA
+272,PGA WEST (Stadium),La Quinta,CA,USA
+273,PGA West (Tournament),La Quinta,CA,USA
+274,Philadelphia CC,Gladwyne,PA,USA
+275,Philadelphia Cricket Club,Chestnut Hill,PA,USA
+276,Phoenix CC,Phoenix,AZ,USA
+277,Pine Forest CC,Houston,TX,USA
+278,Pine Hollow CC,East Norwich,NY,USA
+279,Pine Ridge Golf Club,Lutherville,MD,USA
+280,Pinegrove G&CC,St. Luc,NULL,Canada
+281,Pinehurst Resort (No. 2),Pinehurst,NC,USA
+282,Pittsburgh Field,Aspinwall,PA,USA
+283,Plainfield CC,Edison,NJ,USA
+284,Plantation Course at Kapalua,Kapalua,HI,USA
+285,Pleasant Valley CC,Sutton,MA,USA
+286,Plum Hollow GC,Detroit,MI,USA
+287,Pomonok CC,Flushing,NY,USA
+288,Poppy Hills,Pebble Beach,CA,USA
+289,Port Royal Golf Course,Southampton,NULL,Bermuda
+290,Portland Golf Club,Portland,OR,USA
+291,Presidio CC,San Francisco,CA,USA
+292,Preston Hollow CC,Dallas,TX,USA
+293,Preston Trail GC,Dallas,TX,USA
+294,Prestwick GC,Prestwick,NULL,Scotland
+295,Quail Creek G&CC,Oklahoma City,OK,USA
+296,Quail Hollow Club,Charlotte,NC,USA
+297,Quail Valley GC,Missouri City,TX,USA
+298,Rancho Bernardo CC,San Diego,CA,USA
+299,Rancho Municipal GC,Los Angeles,CA,USA
+300,Rancho Santa Fe GC,Rancho Santa Fe,CA,USA
+301,Randolph Park Muncipal GC,Tucson,AZ,USA
+302,Red Run GC,Royal Oak,MI,USA
+303,Redstone GC (Tournament),Humble,TX,USA
+304,Richelieu Valley G&CC,Sainte-Julie,NULL,Canada
+305,Ridgewood CC,Paramus,NJ,USA
+306,Rio Pinar G&CC,Orlando,FL,USA
+307,Ritz-Carlton GC Dove Mountain,Marana,AZ,USA
+308,River Oaks CC,Houston,TX,USA
+309,Rivermead GC,Aylmer,NULL,Canada
+310,Riverside G&CC,Rothesay,NULL,Canada
+311,The Riviera Country Club,Pacific Palisades,CA,USA
+312,Robert Trent Jones Golf Club,Gainesville,VA,USA
+313,Rosedale GC,Toronto,NULL,Canada
+314,Royal Birkdale GC,Southport,NULL,England
+315,Royal Cinque Ports GC,Deal,NULL,England
+316,Royal Liverpool GC,Hoylake,NULL,England
+317,Royal Lytham St. Anne,Lytham St Annes,NULL,England
+318,Royal Mayfair G&CC,Edmonton,NULL,Canada
+319,Royal Montreal GC (Blue),Bizard,NULL,Canada
+320,Royal Portrush Golf Club,Portrush,NULL,Northern Ireland
+321,Royal St. George's GC,Sandwich,NULL,England
+322,Royal Troon GC,Troon,NULL,Scotland
+324,RTJ Trail (Grand National),Auburn/Opelika,AL,USA
+325,Sahalee CC,Sammamish,WA,USA
+326,Sahara Nevada CC,Las Vegas,NV,USA
+327,Salisbury GC,Westbury,NY,USA
+328,Salt Lake CC,Salt Lake City,UT,USA
+329,San Diego CC,San Diego,CA,USA
+330,San Joaquin Country Club,Fresno,CA,USA
+331,Sawgrass CC,Ponte Vedra Beach,FL,USA
+332,Scarborough G&CC,Toronto,NULL,Canada
+333,Scioto CC,Columbus,OH,USA
+334,Sea Island Golf Club (Plantation Course),St. Simons Island,GA,USA
+335,Sea Island Golf Club (Seaside Course),St. Simons Island,GA,USA
+336,Seaview CC,Atlantic City,NJ,USA
+337,Sedgefield Country Club,Greensboro,NC,USA
+338,Seneca,Broadview Heights,OH,USA
+339,Seneca Golf Course,Louisville,KY,USA
+340,Shadow Creek Golf Course,Las Vegas,NV,USA
+341,Sharpstown CC,Houston,TX,USA
+342,Shaughnessy Heights GC,Vancouver,NULL,Canada
+343,Shawnee CC,Shawnee on Delaware,PA,USA
+344,Shenandoah G&CC,Walled Lake ,MI,USA
+345,Sherwood Country Club,Thousand Oaks,CA,USA
+346,Sherwood Forest Country Club,Baton Rouge,LA,USA
+347,Sheshan International Golf Course,Shanghai,NULL,China
+348,Shinnecock Hills GC,Southampton,NY,USA
+349,Shoal Creek GC,Birmingham,AL,USA
+350,Showboat CC,Las Vegas,NV,USA
+351,Silver Rock,La Quinta,CA,USA
+352,Silverado Resort and Spa (North Course),Napa,CA,USA
+353,Silverado CC (South),Napa,CA,USA
+354,Singing Hills GC,El Cajon,CA,USA
+355,Siwanoy CC,Bronxville,NY,USA
+356,Skokie CC,Glencoe,IL,USA
+357,South Bend CC,South Bend,IN,USA
+358,Southern Highlands GC,Las Vegas,NV,USA
+359,Southern Hills CC,Tulsa,OK,USA
+360,Spanish Trail G&CC,Las Vegas,NV,USA
+361,Speedway Golf Course,Speedway,IN,USA
+362,Spyglass Hill Golf Course,Pebble Beach,CA,USA
+363,St. Andrews GC,Toronto,NULL,Canada
+364,St. Andrews Links (Old Course),St Andrews,NULL,Scotland
+365,St. Charles CC,Winnipeg,NULL,Canada
+366,St. George's G&CC,Etobicoke,NULL,Canada
+367,St. Louis CC,Clayton,NC,USA
+368,Stadium Course,La Quinta,CA,USA
+369,Stardust CC,San Diego,CA,USA
+370,Starmount Forest CC,Greensboro,NC,USA
+371,Starr Pass GC,Tucson,AZ,USA
+372,Summerlea G&CC,Montreal,NULL,Canada
+373,Sunol Valley Golf Club,Sunol,CA,USA
+374,Sunrise GC,Las Vegas,NV,USA
+375,Sunset CC,St. Louis,MO,USA
+376,Sunset Oaks CC,Rocklin,CA,USA
+377,Sunset Ridge,Winnetka,IL,USA
+378,Tahoe Mt. Club (Old Greenwood),Truckee,CA,USA
+379,Tam O'Shanter CC,Niles,IL,USA
+380,Tamarisk CC,Rancho Mirage,CA,USA
+381,Tanglewood GC,Winston-Salem,NC,USA
+382,Tesoro Club,Port St. Lucy,FL,USA
+383,The Classic Club,Palm Desert,CA,USA
+384,The Concession Golf Club,Bradenton,FL,USA
+385,The Conservatory Course,Palm Coast,FL,USA
+386,The Country Club,Brookline,MA,USA
+387,The GC at Dove Mountain,Marana,AZ,USA
+388,The Old White TPC,White Sulphur Springs,WV,USA
+389,The Greens CC,Oklahoma City,OK,USA
+390,The Grove,Hertfordshire,NULL,England
+391,The Metropolitan Club,Melbourne,NULL,Australia
+392,The Mines Resort & GC ,Kuala Lumpur,NULL,Malaysia
+393,The Olympic Club,San Francisco,CA,USA
+394,The Renaissance Club,North Berwick,NULL,Scotland
+395,The Summit Club,Las Vegas,NV,USA
+396,Thornhill CC,Thornhill,NULL,Canada
+397,Thunderbird CC,Rancho Mirage,CA,USA
+398,Tiger Point G&CC,Gulf Breeze,FL,USA
+399,Tijuana CC,Tijuana,NULL,Mexico
+400,Toronto GC,Mississauga,NULL,Canada
+401,Torrey Pines Golf Course (North Course),San Diego,CA,USA
+402,Torrey Pines Golf Course (South Course),San Diego,CA,USA
+403,TPC Potomac at Avenel Farm,Potomac,MD,USA
+404,TPC Boston,Norton,MA,USA
+405,TPC Canyons,Las Vegas,NV,USA
+406,TPC Conneticut,Cromwell,CT,USA
+407,TPC Craig Ranch,McKinney,TX,USA
+408,TPC Deere Run,Silvis,IL,USA
+409,TPC Eagle Trace,Coral Springs,FL,USA
+410,TPC Four Seasons Resort,Irving,TX,USA
+411,TPC Harding Park,San Francisco,CA,USA
+412,TPC Heron Bay,Coral Springs,FL,USA
+413,TPC Kuala Lumpur ,Kuala Lumpur,NULL,Malaysia
+414,TPC Las Colinas,Irving,TX,USA
+415,TPC Louisiana,Avondale,LA,USA
+416,TPC River Highlands,Cromwell,CT,USA
+417,TPC Sawgrass (THE PLAYERS Stadium Course),Ponte Vedra Beach,FL,USA
+418,TPC Scottsdale (Stadium Course),Scottsdale,AZ,USA
+419,TPC Southwind,Memphis,TN,USA
+420,TPC StarPass,Tucson,AZ,USA
+421,TPC Sugarloaf,Duluth,GA,USA
+422,TPC Summerlin,Las Vegas,NV,USA
+423,TPC Twin Cities,Blaine,MN,USA
+424,TPC Woodlands,The Woodlands,TX,USA
+425,Tramarisk CC,Rancho Mirage,CA,USA
+426,Trinity Forest Golf Club,Dallas,TX,USA
+427,Westmoreland CC,Wilmette,IL,USA
+428,Tripoli CC,Milwaukee,WI,USA
+429,Tropicana CC,Las Vegas,NV,USA
+430,Tuckaway CC,Franklin,WI,USA
+431,Tucson National GC,Tucson,AZ,USA
+432,Turnberry (Ailsa),South Ayrshire,NULL,Scotland
+433,Twin Hills G&CC,Oklahoma City,OK,USA
+434,Tyrrell Park Municipal Golf Course,Beaumont,TX,USA
+435,Upper Montclair CC,Clifton,NJ,USA
+436,Valderrama GC,San Roque,NULL,Spain
+437,Valencia CC,Valencia,CA,USA
+438,Valhalla GC,Louisville,KY,USA
+439,Valleybrook CC,Hixson,TN,USA
+440,Vidanta Vallarta,Vallarta,NULL,Mexico
+441,Waialae Country Club,Honolulu,HI,USA
+442,Wannamoisett CC,Rumford,RI,USA
+443,Warwick Hills CC,Grand Blanc,MI,USA
+444,Waynesborough CC,Paoli,PA,USA
+445,West Palm Beach Golf Course,West Palm Beach,FL,USA
+446,Westchester CC,Harrison,NY,USA
+447,Western G&CC,Redford,MI,USA
+448,Westin Innisbrook (Copperhead),Palm Harbor,FL,USA
+449,Westmount G&CC,Kitchener,NULL,Canada
+450,Weston G&CC,Toronto,NULL,Canada
+451,Weston Hills G&CC,Weston,FL,USA
+452,Westwood CC,Houston,TX,USA
+453,Westwood CC,St. Louis,MO,USA
+454,Wethersfield CC,Wethersfield,CT,USA
+455,Whispering Lakes Golf Course,Ontario,CA,USA
+456,Whistling Straits,Sheboygan,WI,USA
+457,Whitemarsh Valley CC,Lafayette Hill,PA,USA
+458,Willow Springs GC,San Antonio,TX,USA
+459,Wilmington Country Club,Wilmington,DE,USA
+460,Wilshire CC,Los Angeles,CA,USA
+461,Winged Foot Golf Club,Mamaroneck,NY,USA
+462,Woodlands CC,The Woodlands,TX,USA
+463,Worcester CC,Worcester,MA,USA
+464,Yorba Linda CC,Yorba Linda,CA,USA
+465,Youngstown CC,Youngstown,OH,USA
+466,Prince's Golf Club,Sandwich,NULL,England
+467,Woodlake GC,San Antonio,TX,USA
+468,Lakewood Country Club,Westlake,OH,USA
+469,Aurora Country Club,Aurora,OH,USA
+470,Tanglewood Country Club,Bainbridge Township,OH,USA
+471,Highland Park Municipal Golf Club,Highland Hills,OH,USA
+472,Beechmont Country Club,Orange,OH,USA
+473,Pensacola Country Club,Pensacola,FL,USA
+474,Lakewood Country Club,St. Petersburg,FL,USA
+475,Pasadena Country Club,Gulfport,FL,USA
+476,Turner's Lodge,Burneyville,OK,USA
+477,Angus Glen GC (South),Markham,NULL,Canada
+478,Columbine CC,Littleton,CO,USA
+479,Hillcrest Country Club,Kansas City,MO,USA
+480,Oakdale Golf & Country Club,Ontario,NULL,Canada
+9994,NULL,NULL,UT,USA
+9995,NULL,NULL,AR,USA
+9996,NULL,NULL,VA,USA
+9997,NULL,NULL,NC,USA
+9998,NULL,NULL,FL,USA
+9999,NULL,NULL,LA,USA
