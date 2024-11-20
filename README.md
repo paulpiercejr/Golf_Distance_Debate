@@ -65,6 +65,8 @@ This folder contains the CSV files that are loaded into the MySQL database. The 
 This folder contains all the SQL scripts that create the schema, load the data, query the database, and create CSV files from queries for use in Tableau for analysis and visualization.
 
 1. pga-data-schema.sql - Creates the schema and loads all data from database files folder via LOAD DATA INFILE. If that function fails to load, the SQL script may need to be modified to eliminate the loading of the data. It may also require some or all constraints to be disabled to load the data, though I would advise against that in case some data is not formatted correctly. In that case, create each table in order and load the data via another means such as MySQLWorkbench Table Data Import Wizard. Don't forget to re-enable all constraints.
+2. pga-tour-queries.sql - has a list of the queries run to perform data anlysis
+3. create_spreadsheets_pga.sql - has queries which are exported to CSV files for analysis and visualization
 
 ## Data Points CSVs
 
